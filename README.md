@@ -1,11 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif)
+![MasterHead](https://img.wattpad.com/17414b19d3735a7e91192c37ecaed1986d9783bb/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f596650466438364e36677a306f673d3d2d3937343338373936342e313634326636366638336164666432393630343031363336343537312e676966)
 <h1 align="center">Hi 👋, I'm Malintha Nilhan Samarasinghe</h1>
 <h3 align="center">I'm an undergraduate Software Engineer</h3>
-<img align="right" alt="coding gif" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif">
+<img align="right" alt="coding gif" width="500" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinthasamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="malinthasamarasinghe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malinthasamarasinghe" alt="malinthasamarasinghe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/malinthanilhan" target="blank"><img src="https://img.shields.io/twitter/follow/malinthanilhan?logo=twitter&style=for-the-badge" alt="malinthanilhan" /></a> </p>
 
