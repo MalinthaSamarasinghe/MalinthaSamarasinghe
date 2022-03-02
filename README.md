@@ -19,7 +19,7 @@
 <p align="center">
 	<img src="https://profile-counter.glitch.me/{MalinthaSamarasinghe}/count.svg">
 </p>
-<h1 align="center"></h1>
+
 <h2>🙋‍♂️ About Me</h2>
 
 - 🔭 I’m currently working on **[homteq ecommerce website](https://github.com/MalinthaSamarasinghe/homteq.git/)**
@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-<br>
+
 <h2>🚀 My Favorite Tools</h2>
 
 ### 👨‍💻 Programming Languages
