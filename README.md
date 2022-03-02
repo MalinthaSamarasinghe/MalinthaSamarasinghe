@@ -135,7 +135,6 @@
 
 
 <h2>🚀 Recent Activity</h2>
-<h1 align="center"></h1>
 <p>Created 41 commits in 5 repositories</p>
 
 1. 🎉 **[MalinthaSamarasinghe/homteq](https://github.com/MalinthaSamarasinghe/homteq)** 28 commits
