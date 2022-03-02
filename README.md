@@ -1,7 +1,7 @@
 <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" alt="coding gif" width="auto" height="auto">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Malintha</h1>
-<h2 align="center">I'm an undergraduate Software Engineer</h2>
+<h3 align="center">I'm an undergraduate Software Engineer</h3>
 
 <p align="center">Connect with me:</p>
 <p align="center">
