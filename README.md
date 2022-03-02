@@ -152,8 +152,9 @@
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="MalinthaSamarasinghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinthaSamarasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="MalinthaSamarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MalinthaSamarasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MalinthaSamarasinghe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MalinthaSamarasinghe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
-  <br/>
+  <br>
   <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MalinthaSamarasinghe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
 
 <h2>❤ Views and Followers</h2>
 <br>
