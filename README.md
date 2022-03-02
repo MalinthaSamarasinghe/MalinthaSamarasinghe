@@ -140,9 +140,9 @@
 
 1. 🎉 **[MalinthaSamarasinghe/homteq](https://github.com/MalinthaSamarasinghe/homteq)** 28 commits
 2. 🎉 **[MalinthaSamarasinghe/The-Lost-Dog-Application](https://github.com/MalinthaSamarasinghe/The-Lost-Dog-Application)** 5 commits
-3. 🎉 **[homteq ecommerce website](https://github.com/MalinthaSamarasinghe/Android-Activity-Lifecycle)** 3 commits
-4. 🎉 **[homteq ecommerce website](https://github.com/MalinthaSamarasinghe/MalinthaSamarasinghe)** 3 commits
-5. 🎉 **[homteq ecommerce website](https://github.com/MalinthaSamarasinghe/Dice_Roller)** 2 commits
+3. 🎉 **[MalinthaSamarasinghe/Android-Activity-Lifecycle](https://github.com/MalinthaSamarasinghe/Android-Activity-Lifecycle)** 3 commits
+4. 🎉 **[MalinthaSamarasinghe/MalinthaSamarasinghe](https://github.com/MalinthaSamarasinghe/MalinthaSamarasinghe)** 3 commits
+5. 🎉 **[MalinthaSamarasinghe/Dice_Roller](https://github.com/MalinthaSamarasinghe/Dice_Roller)** 2 commits
 
 
 
