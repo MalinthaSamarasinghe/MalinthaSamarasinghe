@@ -37,8 +37,6 @@
 <br>
 <h2>🚀 My Favorite Tools</h2>
 
-<h1 align="center"></h1>
-
 ### 👨‍💻 Programming Languages
 <p align="center"> 
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -134,9 +132,10 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>                 
 </p>
-<h1 align="center"></h1>
+
 
 <h2>🚀 Recent Activity</h2>
+<h1 align="center"></h1>
 <p>Created 41 commits in 5 repositories</p>
 
 1. 🎉 **[MalinthaSamarasinghe/homteq](https://github.com/MalinthaSamarasinghe/homteq)** 28 commits
@@ -145,13 +144,15 @@
 4. 🎉 **[homteq ecommerce website](https://github.com/MalinthaSamarasinghe/MalinthaSamarasinghe)** 3 commits
 5. 🎉 **[homteq ecommerce website](https://github.com/MalinthaSamarasinghe/Dice_Roller)** 2 commits
 
-<h1 align="center"></h1>
+
 
 <h2>📊 My Github Stats</h2>
+<h1 align="center"></h1>
 <p align="center">  
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="MalinthaSamarasinghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinthaSamarasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="MalinthaSamarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MalinthaSamarasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MalinthaSamarasinghe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MalinthaSamarasinghe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MalinthaSamarasinghe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MalinthaSamarasinghe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
   <br/>
   <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MalinthaSamarasinghe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
