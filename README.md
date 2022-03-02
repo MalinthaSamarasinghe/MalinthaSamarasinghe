@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center"></h1>
-<p align="center">Profile Views</p>
+<h3 align="center">Profile Views</h3>
 <p align="center">
 	<img src="https://profile-counter.glitch.me/{MalinthaSamarasinghe}/count.svg">
 </p>
