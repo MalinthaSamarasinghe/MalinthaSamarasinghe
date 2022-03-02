@@ -147,7 +147,6 @@
 
 
 <h2>📊 My Github Stats</h2>
-<h1 align="center"></h1>
 <p align="center">  
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="MalinthaSamarasinghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinthaSamarasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="MalinthaSamarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MalinthaSamarasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
