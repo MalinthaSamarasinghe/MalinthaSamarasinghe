@@ -35,7 +35,6 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-<br>
 <h2>🚀 My Favorite Tools</h2>
 
 ### 👨‍💻 Programming Languages
